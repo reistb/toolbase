@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Template",
-  description: "A minimal Next.js starter template",
+  title: "MicroPrint Studio — 100 Pattern Microprinting Generator",
+  description:
+    "Create intricate microprinting patterns with 100 unique styles. Export as PNG or SVG. Control text color, background, font size, and pattern density.",
 };
 
 export default function RootLayout({
